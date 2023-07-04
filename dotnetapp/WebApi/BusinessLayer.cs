@@ -16,5 +16,25 @@ namespace WebApi
         {
             return dal.AuthenticateUser(login.email, login.password);
         }
+        public List<CourseModel> GetCourses()
+        {
+            return dal.GetCourses();
+        }
+        public List<InstituteModel> GetInstitute()
+        {
+            return dal.GetInstitute();
+        }
+        public List<StudentModel> GetStudent()
+        {
+            return dal.GetStudent();
+        }
+        public List<AdmissionModel> GetAdmission()
+        {
+            return dal.GetAdmission();
+        }
+        public List<AdmissionModel> GetStatus()
+        {
+            return dal.GetStatus();
+        }
     }
 }
