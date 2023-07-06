@@ -1,9 +1,9 @@
 import './App.css';
-import Login from './Login/Login';
+import Login from './components/Login/Login';
 import 'bootstrap/dist/css/bootstrap.min.css'
-import Signup from './Signup/Signup';
-import "/home/coder/project/workspace/reactapp/src/Login/Login.css";
-import "/home/coder/project/workspace/reactapp/src/Signup/Signup.css";
+import Signup from './components/Signup/Signup';
+import "/home/coder/project/workspace/reactapp/src/components/Login/Login.css";
+import "/home/coder/project/workspace/reactapp/src/components/Signup/Signup.css";
 import {BrowserRouter, Routes, Route} from 'react-router-dom'
 function App() {
   return (
