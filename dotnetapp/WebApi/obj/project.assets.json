@@ -1245,7 +1245,7 @@
     "net6.0": [
       "Microsoft.AspNetCore.Cors >= 2.2.0",
       "Swashbuckle.AspNetCore >= 6.2.3",
-      "System.Data.sqlClient >= 4.8.5"
+      "System.Data.sqlclient >= 4.8.5"
     ]
   },
   "packageFolders": {
@@ -1293,7 +1293,7 @@
             "target": "Package",
             "version": "[6.2.3, )"
           },
-          "System.Data.sqlClient": {
+          "System.Data.sqlclient": {
             "target": "Package",
             "version": "[4.8.5, )"
           }

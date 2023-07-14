@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "T+adYSZcI8oMCtxN9SbwKWlrcxy6TamrQVrziCA4amBRZF2iWrC6w/NTQhc/cwiDPDaP2c3ixzUqzQrKlS5dHA==",
+  "dgSpecHash": "Cen0fe93QodMY0IWI6TNWMRtwiXmh9cCVjwa1Y3ZdUpkVUqg0noJ8zA1/ogPvdj1hbmG6sX1t29FsQqJoqs6aA==",
   "success": true,
   "projectFilePath": "/home/coder/project/workspace/dotnetapp/WebApi/WebApi.csproj",
   "expectedPackageFiles": [

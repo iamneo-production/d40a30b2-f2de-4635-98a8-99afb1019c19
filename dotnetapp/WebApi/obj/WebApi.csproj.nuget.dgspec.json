@@ -46,7 +46,7 @@
               "target": "Package",
               "version": "[6.2.3, )"
             },
-            "System.Data.sqlClient": {
+            "System.Data.sqlclient": {
               "target": "Package",
               "version": "[4.8.5, )"
             }
