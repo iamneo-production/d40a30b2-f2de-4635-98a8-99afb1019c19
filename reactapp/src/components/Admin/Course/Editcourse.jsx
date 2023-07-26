@@ -1,6 +1,8 @@
 import axios from 'axios';
 import React, { useState, useEffect } from 'react'
-import {Link, Outlet, useNavigate, useParams } from 'react-router-dom';
+import { useNavigate, useParams } from 'react-router-dom';
+import { Link, Outlet } from 'react-router-dom'
+
 function Editcourse() {
     const [values, setValues] = useState({
         coursename: '',
