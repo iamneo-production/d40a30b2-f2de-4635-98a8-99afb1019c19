@@ -484,7 +484,6 @@ public IActionResult DeleteStudent(int id)
         return StatusCode(StatusCodes.Status500InternalServerError, ex);
     }
 }
-
          [HttpGet("getstudent/{id}")]
         public IActionResult GetStudentById(int id)
         {
