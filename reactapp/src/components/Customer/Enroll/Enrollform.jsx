@@ -1,7 +1,6 @@
 import axios from 'axios';
 import React, { useState,useEffect } from 'react';
-import { useNavigate,useParams } from 'react-router-dom';
-import { Link, Outlet } from 'react-router-dom';
+import { useNavigate,useParams,Link, Outlet } from 'react-router-dom';
 
 function Enrollform() {
   const [values, setValues] = useState({
